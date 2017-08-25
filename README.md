@@ -1,0 +1,2 @@
+# Biocomp
+just simple code
